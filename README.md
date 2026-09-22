@@ -53,3 +53,5 @@ Synexa is not a text model and does not compete with Opus 5 on reasoning. It is 
 ## Closing note
 
 Whatever text model you land on, check the [pricing page](https://platform.claude.com/docs/en/about-claude/pricing) rather than a blog post for current rates, since introductory prices change. And if the reason you are reading an opus 5 alternatives page is that you also need images, video or audio behind an API, [try Synexa - one endpoint for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=opus-5-alternatives&utm_content=readme-top&utm_term=tier-r).
+
+_Last reviewed: 2026-09-22_
